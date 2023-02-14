@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<record>
+    <place>
+        <city>Chimale</city>
+        <temperature>30C</temperature>
+        <Longitude>640</Longitude>
+        <Latitude>120</Latitude>
+        <Humidity>90</Humidity>
+    </place>
+
+</record>
